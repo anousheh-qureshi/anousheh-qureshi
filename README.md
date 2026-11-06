@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey there! 💻
 
-<!--
-**anousheh-qureshi/anousheh-qureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anousheh, a Computer Science Engineering student with a growing interest in **Cybersecurity**, particularly network security, traffic analysis, and penetration testing.
 
-Here are some ideas to get you started:
+I'm currently exploring the world of cybersecurity through hands-on practice, CTF challenges, and understanding how systems and networks work beneath the surface.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning by experimenting, breaking things (in controlled environments), and figuring out how they work.
+
+## What I'm Working On
+
+- **Mini Network Intrusion Detection System (NIDS)** — A project exploring network traffic monitoring and basic intrusion detection using Python and Wireshark.
+- **CTF Challenges** — Practising problem-solving through hands-on challenges involving Linux, encoding, cryptography, and networking.
+
+## Tools & Technologies
+
+**Cybersecurity & Networking:** Wireshark, Nmap, tcpdump, Netcat
+
+**Operating Systems:** Linux, macOS
+
+**Programming:** Python, C, Java, JavaScript
+
+**Web Development:** HTML, CSS, React, Next.js, TypeScript
+
+**Tools:** Git, GitHub, VS Code, Terminal
+
+## Currently Learning
+
+- Network Security & Traffic Analysis
+- Linux and Command-Line Fundamentals
+- Networking Protocols and TCP/IP
+- CTF Problem Solving
+- Python for Cybersecurity
+
+
