@@ -30,8 +30,7 @@ I enjoy learning by experimenting, breaking things (in controlled environments),
 ## Currently Learning
 
 - Network Security & Traffic Analysis
-- Linux and Command-Line Fundamentals
-- Networking Protocols and TCP/IP
+- Linux and Command-Line tools
 - CTF Problem Solving
 - Python for Cybersecurity
 
